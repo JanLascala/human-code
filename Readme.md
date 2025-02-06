@@ -6,7 +6,9 @@
 
 
 - Apro il frigo
+
 - controllo alimenti mancanti nel frigo
+
 - appunto elementi mancanti sul tacquino con la matita
     -   creo lista spesa
     - + (importante) croccantini per Ricky
@@ -17,13 +19,14 @@
     - controllo di avere le chiavi di casa.
     - controllo di avere il cellulare.
 
--Esco di casa e mi dirigo al supermercato
-    - Entro nel supermercato
+- Esco di casa e mi dirigo al supermercato
+    
+- Entro nel supermercato
     - prendo un cestino della spesa
     - contorllo lista e inizio dal primo oggetto più vicino alle sezioni del supermercato
        - SE il prezzo dell'oggetto è inferiore rispetto ad un altro scelgo quello meno costosto
-       - Altrimenti lo ripongo nel cestino.
-       - Altrimenti se l'oggetto non cè passo al prossimo oggetto nella lista
+       - ALTRIMENTI lo ripongo nel cestino.
+       - ALTRIMENTI se l'oggetto non cè passo al prossimo oggetto nella lista
        - SE mancano croccantini per Ricky cerco un'alternativa.
 
 - Controllo lista e cestino
@@ -32,9 +35,16 @@
         - ALTRIMENTI chiedo al commesso 
         - SE non cè Ignoro l'oggetto.
 
-- Controllo
+- Controllo cestino e prezzi
         - SE il totale dei beni è pari o inferiore al budget stabilito + coupon in mio possesso proseguo verso le casse
-        - ALTRIMENTI Ripongo l'oggetto più costosto meno che il cibo per Ricky nell'apposita sezione
+        - ALTRIMENTI Ripongo gli snack extra più costosi nell'apposita sezione
+
+- Pago Il totale 
+    - ripongo gli alimenti nei sacchetti 
+
+-  Ritorno a casa con la spesa
+    - Ripongo gli alimenti nel frigo 
+    - Do a ricky le sue crocchette (cibo)
 
 
 
