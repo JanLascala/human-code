@@ -9,7 +9,7 @@
 
 - controllo alimenti mancanti nel frigo
 
-- appunto elementi mancanti sul tacquino con la matita
+- appunto elementi mancanti sul taccuino con la matita
     -   creo lista spesa
     - + (importante) croccantini per Ricky
 
@@ -33,7 +33,7 @@
     - Controllo che ci sia tutto quello che mi serve
         - SE manca qualche oggetto continuo a cercare nel supermercato
         - ALTRIMENTI chiedo al commesso 
-        - SE non cè Ignoro l'oggetto.
+            - SE non cè Ignoro l'oggetto.
 
 - Controllo cestino e prezzi
         - SE il totale dei beni è pari o inferiore al budget stabilito + coupon in mio possesso proseguo verso le casse
